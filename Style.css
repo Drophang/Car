@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:auto;
+}
+nav{
+    display: flex;
+}
+nav img{
+    height: 70px;
+    border-radius: 50%;
+}
+.inicio{
+justify-content: end;
+top: 20px;
+right: 20px;
+
+}
+.Titulo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position:center;
+    background-size: cover;
+    height: 350px;
+}
+.Titulo_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:auto;
+}
+.Titulo_3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:auto;
+    margin: 20px;
+}
+.imgs{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.imgs img{
+    height: 25px;
+}
+.Titulo_4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position:center;
+    background-size: cover;
+    margin-top: 500px;
+}
+.subTitulo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:auto;
+}
+.cuadrados1{
+display: flex;
+justify-content: center;
+gap: 25px;
+height: auto;
+}
+.cuadrados1 img{
+    height: 200px;
+    width: 150px;
+    border-radius: 5px;
+}
+.cuadrados2{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    height: auto;
+}
+.Titulo_5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position:center;
+    background-size: cover;
+    margin-top: 100px;
+}
+.subTitulo_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position:center;
+    background-size: cover;
+}
+.redes img{
+    height: 25px;
+}
+.redes{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
